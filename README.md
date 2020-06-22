@@ -3,5 +3,5 @@ Fracture strength prediction for hydraulic fracturing using multiple machine lea
 水利压裂的智能预测.
 [![DOI](https://zenodo.org/badge/273982547.svg)](https://zenodo.org/badge/latestdoi/273982547)
 
-For collobration, please contact:xiaoyingzhuang@tongji.edu.cn.
+For collaboration, please contact:xiaoyingzhuang@tongji.edu.cn.
 深入合作，请联系：xiaoyingzhuang@tongji.edu.cn。
